@@ -1,0 +1,1 @@
+clone the repo   start the frontend with npm run dev and  start the backend with npm start   add your mongo db url to index.js in backend    frontend will run on port 3000 and backend will run on port 9000
