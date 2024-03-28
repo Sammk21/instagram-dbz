@@ -12,8 +12,7 @@ This repository contains the code for a full stack web application built with a 
 
 ## Cloning the Repository
 
-git clone <repository_url>
-cd <repository_folder>
+git clone  https://github.com/Sammk21/instagram-dbz.git
 
 ## Setting Up MongoDB URL
 Navigate to the backend directory and open index.js file. Replace <your_mongo_db_url> with your MongoDB URL.
